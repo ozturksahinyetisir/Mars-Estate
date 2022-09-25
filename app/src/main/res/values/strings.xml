@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarsEstate</string>
+    <string name="letsexplore"><font align="left" color="#FFFFFF" size="40">Let\'s Explore the</font>
+<font align="left" color="#F9AD1A" size="45">Mars Estate</font>
+<font align="left" color="#FFFFFF" size="35">with</font><font align="left" color="#F9AD1A" size="35"> Marsinio</font>
+    </string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
