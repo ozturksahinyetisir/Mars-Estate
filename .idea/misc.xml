@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/drawable/custom_image.xml" value="0.22" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.341" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/drawable/loading_animation.xml" value="0.3425" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/drawable/rectangle_3.xml" value="0.341" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/drawable/rectangle_6.xml" value="0.341" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/activity_detail.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/activity_main.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/fragment_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/fragment_detailv2.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/fragment_first.xml" value="0.3138586956521739" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/fragment_main.xml" value="0.33" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/nav_header.xml" value="0.3138586956521739" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/recycler_detail.xml" value="0.1" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/layout/recycler_item.xml" value="0.31567028985507245" />
+        <entry key="..\:/Users/slore/AndroidStudioProjects/MarsEstate/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
